@@ -312,6 +312,18 @@
               </div>
             </div>
           </div>
+          <div class="form-group">
+              <label class="control-label col-md-4">Refrigerator Status</label>
+              <div class="col-md-8">
+              <select id="refrigerator_status" name="refrigerator_status" required="true">
+                    <option value="">--Select Refrigerator's Status--</option>
+                    <option value="Functional">Functional</option>
+                    <option value="Awaiting Repair">Awaiting Repair</option>
+                    <option value="Decommissioned">Decommissioned</option>
+                    
+                  </select>             
+            </div>
+          </div>
         </form>
           </div>
           <div class="modal-footer">

@@ -14,9 +14,9 @@
                                 <thead>
                                     <tr>
                                         <th>County Name</th>
-										                    <th>Population</th>
-										                    <th>Population One</th>
-										                    <th>Women Population</th>
+										                    <th>Estimated Total Population</th>
+                                        <th>Estimated Population &lt; 1yr</th>
+                                        <th>Estimated Women Population</th>
                                         <td align="center"><b>Edit</b></td>
                                         <td align="center"><b>Delete</b></td>
                                     </tr>
